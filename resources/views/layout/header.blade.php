@@ -29,7 +29,7 @@
           <a href="#" class="px-3 sm:px-4 py-2 text-gray-300 text-sm font-medium hover:text-white transition-colors whitespace-nowrap">
             Project
           </a>
-          <a href="#" class="px-5 py-2 bg-white/10 hover:bg-white/20 text-white text-sm font-medium rounded-full transition-colors whitespace-nowrap ml-2">
+          <a href="{{ url('/#contact') }}" class="px-5 py-2 bg-white/10 hover:bg-white/20 text-white text-sm font-medium rounded-full transition-colors whitespace-nowrap ml-2">
             Contact
           </a>
         </div>
