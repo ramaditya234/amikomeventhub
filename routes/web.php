@@ -14,6 +14,6 @@ use Illuminate\Support\Facades\Route;
 //     return view('bantuan');
 // });
 
-Route::get('/', function () {
+Route::get('/admin/dashboard', function () {
     return view('admin.dashboard');
 });
