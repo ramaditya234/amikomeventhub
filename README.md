@@ -3,5 +3,5 @@ https://amikomeventhub-main-sahjl2.free.laravel.cloud/
 # Admin Dashboard
 https://amikomeventhub-main-sahjl2.free.laravel.cloud/admin/dashboard
 # User Dashboard
-
+https://amikomeventhub-main-sahjl2.free.laravel.cloud/user/dashboard
 
