@@ -29,7 +29,7 @@ Route::get('/user/event-detail', function () {
     return view('event-detail');
 });
 
-Route::get('/admin/dashboard', function () {
+Route::get('/', function () {
     return view('admin.dashboard');
 });
 
